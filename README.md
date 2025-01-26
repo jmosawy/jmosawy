@@ -4,4 +4,4 @@ I'm an experienced frontend software engineer with a keen attention to details a
 
 You may find me on most popular social networks by looking up my username _**jmosawy**_, or feel free to say _hi_ by emailing me at [me@jmosawy.com](mailto:me@jmosawy.com)
 
-🔑 2EC6 0214 28A9 44BA 4D45 8B3B BF04 AB41 1502 B751 ([Public Key](http://keyserver.ubuntu.com/pks/lookup?op=get&search=0x2ec6021428a944ba4d458b3bbf04ab411502b751))
+🔑 2EC6 0214 28A9 44BA 4D45 8B3B BF04 AB41 1502 B751 ([Public Key](https://github.com/jmosawy.gpg))
